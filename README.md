@@ -2,6 +2,8 @@
 
 By Dylan Olthoff and Rylan Casanova
 
+Coursework and documentation can be found in the file 'Project 8 CST310.docx'
+
 ### To run the game:
 
 1. Install Ubuntu
